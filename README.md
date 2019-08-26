@@ -29,6 +29,18 @@
 
 ## criteria for paper presentations
 
+### My checklist for reviewing papers
+
+Is each of the following a strength of the paper? Otherwise, how is it a weakness?
+
+* Theoretical results / proofs
+* Empirical results / real data / convincing figures (with error bands)
+* Good/clear English
+* Easy to understand math / everything well defined
+* Novel idea
+* Very clear about what is new relative to previous work
+
+
 ### NeurIPS
 
 1. Contributions: Please list three things this paper contributes (e.g., theoretical, methodological, algorithmic, empirical contributions; bridging fields; or providing an important critical analysis). For each contribution, briefly state the level of significance (i.e., how much impact will this work have on researchers and practitioners in the future?). If you cannot think of three things, please explain why. Not all good papers will have three contributions.
