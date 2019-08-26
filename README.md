@@ -26,6 +26,13 @@
 * [Direct Importance Estimation with Model Selection and Its Application to Covariate Shift Adaptation](http://papers.nips.cc/paper/3248-direct-importance-estimation-with-model-selection-and-its-application-to-covariate-shift-adaptation)
 * [A survey of point-based POMDP solvers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.9951&rep=rep1&type=pdf)
 
+## Lectures on figure creation
+
+* R data.table + animint2 http://members.cbio.mines-paristech.fr/~thocking/animint2-manual/Ch02-ggplot2.html
+* R tidyverse + ggplot2 https://r4ds.had.co.nz/data-visualisation.html
+* python pandas + seaborn https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed
+* julia Plots http://docs.juliaplots.org/latest/
+
 ## books
 
 Murphy
