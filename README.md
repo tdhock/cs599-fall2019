@@ -43,6 +43,8 @@ Is each of the following a strength of the paper? Otherwise, how is it a weaknes
 
 ### NeurIPS
 
+from https://nips.cc/Conferences/2019/PaperInformation/ReviewerGuidelines
+
 1. Contributions: Please list three things this paper contributes (e.g., theoretical, methodological, algorithmic, empirical contributions; bridging fields; or providing an important critical analysis). For each contribution, briefly state the level of significance (i.e., how much impact will this work have on researchers and practitioners in the future?). If you cannot think of three things, please explain why. Not all good papers will have three contributions.
 
 2.  Detailed comments: Please provide a thorough review of the submission, including its originality, quality, clarity, and significance.
