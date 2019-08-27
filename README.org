@@ -1,6 +1,6 @@
 ** Presentation signup sheet
 
-[[file:materials/papers.md][List of machine learning research papers with presentation signup sheet]]
+[[wiki/presentation-signup-sheet][List of machine learning research papers with presentation signup sheet]]
 
 ** Other course materials
 
