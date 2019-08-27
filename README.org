@@ -1,0 +1,13 @@
+** Course materials
+
+- [[file:materials/books.md][textbooks]]
+- [[file:materials/figures.md][creating figures]]
+- [[file:materials/papers.md][machine learning research papers]]
+- [[file:materials/reproducibility.md][reproducible research]]
+- [[file:materials/reviews.md][criteria for judging presentations / reviews]]
+
+** Applications of ML, 27 Aug 2019
+
+- [[file:2019-08-27-applications/slides.pdf]]
+- [[file:2019-08-27-applications/music-transcription/BFD-page2-TVH.mp3][real musician recording mp3]]
+- [[file:2019-08-27-applications/music-transcription/BFD-page2-synth.mp3][synthesized mp3]]
