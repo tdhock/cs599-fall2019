@@ -1,4 +1,54 @@
-## papers for student presentations
+## schedule of presentations
+
+Students, please sign up for one slot in first half and one slot in
+second half.
+
+First half.
+
+- Aug 29: Toby Dylan Hocking presents [A pruned dynamic programming
+  algorithm to recover the best segmentations with 1 to Kmax
+  change-points](https://arxiv.org/abs/1004.0887)
+- Sep 10 pres 1:
+- Sep 10 pres 2:
+- Sep 12:
+- Sep 17 pres 1:
+- Sep 17 pres 2:
+- Sep 19:
+- Sep 21 pres 1:
+- Sep 21 pres 2:
+- Sep 23:
+- Sep 30 pres 1:
+- Sep 30 pres 2:
+- Oct 1:
+- Oct 8 pres 1:
+- Oct 8 pres 2:
+- Oct 10:
+- Oct 15 pres 1:
+- Oct 15 pres 2:
+- Oct 17:
+
+Second half.
+
+- Oct 22 pres 1:
+- Oct 22 pres 2:
+- Oct 24:
+- Oct 22 pres 1:
+- Oct 22 pres 2:
+- Oct 24:
+- Oct 29 pres 1:
+- Oct 29 pres 2:
+- Oct 31:
+- Nov 5 pres 1:
+- Nov 5 pres 2:
+- Nov 7:
+- Nov 12 pres 1:
+- Nov 12 pres 2:
+- Nov 14:
+- Nov 19 pres 1:
+- Nov 19 pres 2:
+- Nov 21:
+
+## suggested papers for student presentations
 
 * [On optimal multiple changepoint algorithms for large data](https://link.springer.com/article/10.1007/s11222-016-9636-3)
 * [Complexity analysis of the Lasso regularization path](https://arxiv.org/abs/1205.0079)
@@ -23,3 +73,18 @@
 * [Maximum Margin Interval Trees](http://papers.nips.cc/paper/7080-maximum-margin-interval-trees)
 * [Direct Importance Estimation with Model Selection and Its Application to Covariate Shift Adaptation](http://papers.nips.cc/paper/3248-direct-importance-estimation-with-model-selection-and-its-application-to-covariate-shift-adaptation)
 * [A survey of point-based POMDP solvers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.711.9951&rep=rep1&type=pdf)
+
+## other options
+
+any paper published at one of the major machine learning conferences
+(International Conference on Machine Learning, Neural Information
+Processing Systems, International Conference on Artificial
+Intelligence and Statistics, International Conference on Learning
+Representations, AAAI Conference of the Association for the
+Advancement of Artificial Intelligence) or journals (Journal of
+Machine Learning Research, Foundations and Trends in Machine Learning,
+Neural Computation, Machine Learning, Neural Networks, IEEE
+TPAMI). arXiv papers in the
+[cs.LG](https://arxiv.org/list/cs.LG/recent) or
+[stat.ML](https://arxiv.org/list/stat.ML/recent) categories are
+acceptable.
