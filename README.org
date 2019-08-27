@@ -1,9 +1,12 @@
-** Course materials
+** Presentation signup sheet
+
+[[file:materials/papers.md][List of machine learning research papers with presentation signup sheet]]
+
+** Other course materials
 
 - [[file:materials/CS_EE599-Fall2019-ML-Research-Syllabus.pdf][syllabus]]
 - [[file:materials/books.md][textbooks]]
 - [[file:materials/figures.md][creating figures]]
-- [[file:materials/papers.md][machine learning research papers]]
 - [[file:materials/reproducibility.md][reproducible research]]
 - [[file:materials/reviews.md][criteria for judging presentations / reviews]]
 
