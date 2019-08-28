@@ -1,0 +1,16 @@
+- 10 points, clarity of oral presentation.
+- 10 points, problem setting.
+- 10 points, new contributions relative to previous work.
+- 10 points, overall strengths and weaknesses of the paper (at least one of each).
+- 10 points, a discussion question for the class.
+- 50 points, detailed discussion of each figure.
+  - 10 points, oral explanation of of axes and legends.
+  - 10 points, main message of each figure.
+  - 10 points, strengths of each figure.
+  - 10 points, weaknesses / room for improvement of each figure.
+  - 10 points, which figures are (not) suitable for the coding
+    projects of this class? Why? Coding projects should be
+    non-trivial, typically result figures.
+
+Good figures have:
+- TODO.

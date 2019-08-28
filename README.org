@@ -8,7 +8,12 @@
 - [[file:materials/books.md][textbooks]]
 - [[file:materials/figures.md][creating figures]]
 - [[file:materials/reproducibility.md][reproducible research]]
-- [[file:materials/reviews.md][criteria for judging presentations / reviews]]
+- [[file:materials/reviews.md][criteria for reviewing papers]]
+- [[file:materials/presentation-rubric.org][rubric for grading presentations]]
+
+** Sample presentation and figure, 29 Aug 2019
+
+
 
 ** Applications of ML, 27 Aug 2019
 
