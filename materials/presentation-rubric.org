@@ -1,16 +1,36 @@
+- 10 points, signed up by Weds Sep 4, 11:59pm.
 - 10 points, clarity of oral presentation.
 - 10 points, problem setting.
 - 10 points, new contributions relative to previous work.
-- 10 points, overall strengths and weaknesses of the paper (at least one of each).
+- 10 points, overall strengths and weaknesses of the paper (at least
+  one of each).
 - 10 points, a discussion question for the class.
-- 50 points, detailed discussion of each figure.
-  - 10 points, oral explanation of of axes and legends.
-  - 10 points, main message of each figure.
-  - 10 points, strengths of each figure.
-  - 10 points, weaknesses / room for improvement of each figure.
+- 10 points, ideas for future work.
+- 30 points, detailed discussion of each figure.
+  - 10 points, oral explanation of of axes, legends, main message.
+  - 10 points, strengths / weaknesses / room for improvement.
   - 10 points, which figures are (not) suitable for the coding
     projects of this class? Why? Coding projects should be
     non-trivial, typically result figures.
 
 Good figures have:
-- TODO.
+- Text size which is easy to read, about the same size as main text
+  (not too much bigger or smaller).
+- Legends or (better) direct labels to explain colors/linetypes/etc.
+- Error bands/bars to show significant differences between items
+  (e.g. algorithms).
+- Axes with ticks/labels in interpretable units (e.g. time series data
+  measured at 30Hz, axes ticks are in units of seconds rather than
+  observation number).
+- Aligned axes for related plots with identical units.
+- Caption which allows interpretation of the figure without having
+  to read the main text.
+
+Bad figures have:
+- Data variables which are encoded using more than one visual property
+  (e.g. drawing each algorithm using a different color and linetype,
+  whereas simply using a different color would suffice).
+- Colors which are indistinguishable to color-blind readers
+  (e.g. red/green).
+- Un-used space.
+
