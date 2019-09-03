@@ -6,17 +6,9 @@
 
 - [[file:materials/CS_EE599-Fall2019-ML-Research-Syllabus.pdf][syllabus]]
 - [[file:materials/books.md][textbooks]]
-- [[file:materials/figures.md][creating figures]]
 - [[file:materials/reproducibility.md][reproducible research]]
 - [[file:materials/reviews.md][criteria for reviewing papers]]
 - [[file:materials/presentation-rubric.org][rubric for grading presentations]]
-
-** Sample presentation and figure, 29 Aug 2019
-
+- [[file:materials/figures.md][creating figures]]
 
 
-** Applications of ML, 27 Aug 2019
-
-- [[file:2019-08-27-applications/slides.pdf]]
-- [[file:2019-08-27-applications/music-transcription/BFD-page2-TVH.mp3][real musician recording mp3]]
-- [[file:2019-08-27-applications/music-transcription/BFD-page2-synth.mp3][synthesized mp3]]
