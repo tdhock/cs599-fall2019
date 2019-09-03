@@ -1,6 +1,12 @@
 ** Presentation signup sheet
 
-[[https://github.com/tdhock/cs599-fall2019/wiki/presentation-signup-sheet][List of machine learning research papers with presentation signup sheet]]
+[[https://github.com/tdhock/cs599-fall2019/wiki/presentation-signup-sheet][List of machine learning research papers with presentation signup
+sheet]]
+
+** Rubrics
+
+- [[file:materials/presentation-rubric.org][rubric for grading presentations]]
+- [[file:materials/homework-examples.org][rubric and example for homework]]
 
 ** Other course materials
 
@@ -8,7 +14,5 @@
 - [[file:materials/books.md][textbooks]]
 - [[file:materials/reproducibility.md][reproducible research]]
 - [[file:materials/reviews.md][criteria for reviewing papers]]
-- [[file:materials/presentation-rubric.org][rubric for grading presentations]]
 - [[file:materials/figures.md][creating figures]]
-- 
 

@@ -1,0 +1,168 @@
+* Rubric for homework questions
+
+Each homework will consist of five questions, and each question will
+be worth 2 points:
+- 2 points for a complete response, with no off-topic response.
+- 1 point for an incomplete response, and/or some off-topic response.
+- 0 points for no response, or completely off-topic.
+
+* Example
+
+
+** When creating a ggplot, the aesthetic mapping provides a mapping from data variables to visual properties. What is the name of the visual property that is used for the horizontal axis?
+
+2 points:  
+
+x
+
+(x = ) 	
+
+aes(x,y,.....)
+from aes function x value will be the visual property in horizontal axis.
+
+
+1 point, partially correct: 'x' represents the visual property for
+horizontal axis. e.g. aes(x = horizontal_property, y =
+vertical_property, colour = blue)
+
+geom_point(     mapping=aes(x=life.expectancy, y=fertility.rate, color=region),     data=WorldBank1975)
+The name of the visual property that is used for the horizontal axis is aes.
+In the case of the reading x=life.expectancy
+
+0 points, off-topic: The name of the visual property that is used for
+the horizontal axis is displ.
+
+mpg
+
+displ
+
+
+
+** The geom_line is used to draw lines in ggplots -- which aes do you use to specify separate lines?  
+
+2 points: 
+
+'group' is be used to specify separate lines.
+
+linetype. 
+
+To specify separate lines "color="
+would be how to separate lines according to different classifications,
+ie regions.
+
+I think you are asking to make the separate lines looks different?
+Use the (color=, linetype=, alpha=, size=) to separte.
+
+1 point, partially correct: To specify separate lines, we can change
+the parameters in aes function.  aes function look like aes(x = " ", y
+=" ",...). After we define the name of x axis and y axis, we can add
+one or more properties to specify different lines, just like color and
+shape.
+
+color or label 	
+
+ggplot() +
+geom_line(data = value1, aes(x = value2, y = value3), color = "blue") +
+geom_line(data = value4, aes(x = value5, y = value6 ), color = "red")
+here we can see , we use different color to indicate two different line. By this way , we can separate the lines.
+We can also use 
+geom_line(linetype= value) to indicate the different lines here value will be dashed, dotted, dot dashed etc.
+
+
+0 points: add.x.var
+
+
+** How to create a ggplot with a color legend?
+
+2 points: With the Aes function being called with the properties X, Y,
+and Color. not only are the points separated by color the legend also
+becomes colored
+
+As long as you put (color=THE DATA TPYE COLUMN) in aes(), the color
+legend will automatically generated the different categories or
+numbers.
+
+To create a ggplot with a color legend we have to assign the
+corresponding column at color of the aes funtion...
+
+
+1 point, partially correct:
+
+color = <some_dataset>
+
+geom_class(mapping = aes(x =displ, y = hwy, color = class1))
+The class means the type of the plot, it can be line, point and so on, the class1 means the color of the plot.
+
+We can use 'scale_color_manual()' function we can specify the name of the legend in the 'name' argument,
+the legend labels as character vector in the 'labels' argument and colors for each label in the 'values' argument.
+e.g. scale_color_manual(name = "color legend",
+                                           labels = c("l1, l2, l3"),
+                                           values = c("l1"="blue", "l2"="red", "l3"="green"))
+
+ 	
+
+I can add codes to create a ggpolt with a color legend. For example,
+if I want to get red color. The code is
+ggpolt()+geom_class(aes(color="red")).
+
+ 	
+
+ggplot()+geom_class(aces(x=     , y=    , color=     ) )
+In this code, we could define a kind of color and write it after the equal symbol of color.
+
+
+** What is the function in the R data.table package for reading a csv file?
+
+
+
+2 points: fread e.g. data <- fread("file.csv")
+
+
+0 points: 
+MyData <- read.csv(file="c:/TheDataIWantToReadIn.csv", header=TRUE, sep=",")
+
+
+** The following is a small modification of the code in the data.table vignette
+
+what is present in the result of the code below, but is not present in the results shown in the vignette? (if you don't know, install Rstudio + data.table and run the code to find out)
+
+flights[carrier == "AA", .(
+ arrival=mean(arr_delay),
+ departure=mean(dep_delay)
+), by = .(origin, dest, month)]
+
+
+2 points:
+
+In this piece of code we have specified the column names "arrival",
+"departure" which are displayed in result.
+In vignette column names are not specified so automatically generated
+column names "V1", "V2" are displayed in result.
+
+The V1 and V2 in the data.table vignette become arrival and departure,
+because mean(arr_delay) column and mean(dep_delay) column are not
+named in data.table, but they are named as arrival and departure in
+the new code.
+
+In the result of the code below, the default 'V1' is changed to
+'arrival' and the default 'V2' is changed to 'departure'.
+
+
+1 point: In this code, the mean arrival delay and departure delay are
+shown in the results but the total number of trips is not shown as it
+is in the vignette
+
+#+BEGIN_SRC 
+     origin  dest month    arrival  departure  
+1:    JFK  LAX     1   6.590361 14.2289157 
+2:    LGA  PBI     1  -7.758621  0.3103448 
+3:    EWR  LAX     1   1.366667  7.5000000 
+4:    JFK  MIA     1  15.720670 18.7430168 
+5:    JFK  SEA     1  14.357143 30.7500000
+---                                        
+196:    LGA  MIA    10  -6.251799 -1.4208633
+197:    JFK  MIA    10  -1.880184  6.6774194
+198:    EWR  PHX    10  -3.032258 -4.2903226
+199:    JFK  MCO    10 -10.048387 -1.6129032
+200:    JFK  DCA    10  16.483871 15.5161290
+#+END_SRC
