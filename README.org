@@ -7,6 +7,7 @@ sheet]]
 
 - [[file:materials/presentation-rubric.org][rubric for grading presentations]]
 - [[file:materials/homework-examples.org][rubric and example for homework]]
+- [[file:materials/project-rubric.org][rubric for grading coding projects]]
 
 ** Other course materials
 

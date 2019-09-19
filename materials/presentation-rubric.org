@@ -1,10 +1,10 @@
 - 10 points, signed up by Weds Sep 4, 11:59pm.
 - 10 points, clarity of oral presentation.
+- 10 points, clarity of responses to questions from the audience.
 - 10 points, problem setting.
 - 10 points, new contributions relative to previous work.
 - 10 points, overall strengths and weaknesses of the paper (at least
   one of each).
-- 10 points, a discussion question for the class.
 - 10 points, ideas for future work.
 - 30 points, detailed discussion of each figure.
   - 10 points, oral explanation of of axes, legends, main message.

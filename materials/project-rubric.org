@@ -1,0 +1,61 @@
+** Week 1, 20 points
+
+choose two possible papers/figures and write a PDF description
+(including pseudocode) of how to the original authors computed their
+results and created their figures. Include a copy of the original
+figure (with citation) and write at least one paragraph for each of:
+problem setting, data sources, algorithms studied (including
+baselines). 
+
+Detailed rubric:
+
+10 points for each figure,
+- 2 points for copy of original figure.
+- 2 points for citation, for example: Hastie, et al. Elements of
+  Statistical Learning, Figure 3.7.
+- 2 points for problem setting paragraph. What are the inputs,
+  outputs, and desired function to learn?
+- 2 points for the data sources paragraph. Describe the real-world
+  problem (e.g. predicting survival times of cancer patients using
+  features measured at diagnosis), and where you plan to obtain the
+  data set, or how to plan to create the data set. For real-world
+  data, put a URL where you will download it; for simulated data,
+  describe how you will create it. Describe the data set dimensions:
+  how many rows/observations and columns/features in the inputs X?
+  What do the labels y look like? Show the first few rows/observations
+  from the data set, if possible.
+- 2 points for a paragraph describing the algorithms studied,
+  including baselines. Use pseudo-code to explain what algorithms you
+  plan to code during your project, and to explain how you will
+  compute the numbers that are plotted in the figure that you chose.
+  Describe what you will learn about in your coding project.
+
+** Week 2, 10 points
+
+present your two choices to your partner. Write an opinion about what
+you think your partner should choose. Write at least one paragraph for
+each choice, discussing the strengths/weaknesses of each. 
+
+** Week 3, 10 points
+
+begin coding your implementation for your chosen figure, submit your
+preliminary code to a github repo. Include your PDF from week one. 
+
+** Week 4, 10 points
+
+continue working on your figure, and code review your partner’s github
+repo. Write suggestions in a PDF file and send it to me and your
+partner. 
+
+** Week 5, 30 points
+
+your figure and code are due along with a report explaining exactly
+what you did (explain what happened if you were unable to exactly
+reproduce the figure) 
+
+** Week 6, 20 points
+
+run your partner’s code and write a report explaining whether or not
+you could reproduce your partner’s results. 10 points for your report
+about your partner, 10 points if your code was reproducible by your
+partner.
