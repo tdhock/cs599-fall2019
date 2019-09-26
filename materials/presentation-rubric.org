@@ -1,17 +1,34 @@
 - 10 points, signed up by Weds Sep 4, 11:59pm.
 - 10 points, clarity of oral presentation.
-- 10 points, clarity of responses to questions from the audience.
-- 10 points, problem setting.
+- 10 points, repeating questions from the audience, and clarity/correctness of responses.
+  - 1-3 points for not repeating the questions.
+  - 4-5 points for repeated questions but incorrect responses.
+  - 6-7 points for repeated questions and "I dont know" responses.
+  - 8-10 points for repeated questions and correct response.
+- 10 points, problem setting. Inputs? Outputs? Data types? Function to learn?
+  - 1-5 points for mentioning some of above.
+  - 6-10 points for mentioning all of above.
 - 10 points, new contributions relative to previous work.
 - 10 points, overall strengths and weaknesses of the paper (at least
   one of each).
+  - Theoretical results / proofs
+  - Empirical results / real data / convincing figures (with error bands)
+  - Good/clear English
+  - Easy to understand math / everything well defined
+  - Novel idea
+  - Very clear about what is new relative to previous work
+  - 1-5 points for not mentioning points above.
+  - 6-10 points for mentioning points above.
 - 10 points, ideas for future work.
-- 30 points, detailed discussion of each figure.
-  - 10 points, oral explanation of of axes, legends, main message.
-  - 10 points, strengths / weaknesses / room for improvement.
-  - 10 points, which figures are (not) suitable for the coding
-    projects of this class? Why? Coding projects should be
-    non-trivial, typically result figures.
+  - 1-5 points for a vague discussion.
+  - 6-10 points for mentioning concrete ideas for future papers.
+- 10 points, oral explanation of of axes, legends, main message.
+- 10 points, strengths / weaknesses / room for improvement.
+  - 1-5 points for not mentioning any of the points below.
+  - 6-10 points if mention at least one of the points below for each of the strengths/weaknesses.
+- 10 points, which figures are (not) suitable for the coding
+  projects of this class? Why? Coding projects should be
+  non-trivial, typically result figures.
 
 Good figures have:
 - Text size which is easy to read, about the same size as main text
