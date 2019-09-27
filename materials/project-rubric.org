@@ -41,7 +41,8 @@ you think your partner should choose.
 
 ** Week 3, 10 points
 
-begin coding your implementation for your chosen figure, submit your
+Choose one of the two figures, and begin coding your implementation for your chosen figure 
+(e.g. choose SVM, dont do random forest), submit your
 preliminary code to a github repo. Include your PDF from week one. 
 
 ** Week 4, 10 points
