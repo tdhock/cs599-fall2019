@@ -44,7 +44,11 @@ you think your partner should choose.
 
 Choose one of the two figures, and begin coding your implementation for your chosen figure 
 (e.g. choose SVM, dont do random forest), submit your
-preliminary code to a github repo. Include your PDF from week one. 
+preliminary code to a github repo. Include your PDF from week one, and a README that describes how someone else could re-do your analysis (e.g. typing "make" at the command line will re-do all the analyses, and produce the final figure-5.3.png).
+- 0 points for no github repo.
+- 1-3 points for a github repo with minimal code.
+- 4-6 points for a github repo with your PDF description from week 1, and a README describing your project.
+- 7-10 points for a github repo with substantial code, and a Makefile that documents how to make your figure.
 
 ** Week 4, 10 points
 
