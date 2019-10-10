@@ -54,7 +54,19 @@ preliminary code to a github repo. Include your PDF from week one, and a README 
 
 continue working on your figure, and code review your partner’s github
 repo. Write suggestions in a PDF file and send it to me and your
-partner. 
+partner. There should be two paragraphs
+- the first paragraph should describe the documentation that your partner has provided about how to re-do the analysis (README and Makefile). 5 points (1 point for each of the following)
+  - Does the README clearly explain the purpose of the repository / coding project?
+  - Does the README have a link to the PDF project proposal?
+  - Does the README have a copy of the figure?
+  - Does the README have a citation to where the figure came from?
+  - Does the Makefile clearly document the commands that can be run to reproduce the analysis?
+- the second paragraph should describe the code that your partner has written so far. 5 points (1 point for each of the following).  If the answer is NO to any of the following, please provide suggestions about how to improve.
+  - Is the code easy to read / understand?
+  - Does the code contain any comments that explain what the code is doing?
+  - Does the code contain any repetition that could be avoided by writing functions/loops/vectorization?
+  - Does the code run without errors?
+  - Does the code produce a figure?
 
 ** Week 5, 30 points
 
