@@ -70,9 +70,47 @@ partner. There should be two paragraphs
 
 ** Week 5, 30 points
 
-your figure and code are due along with a report explaining exactly
+Your figure and code are due along with a report explaining exactly
 what you did (explain what happened if you were unable to exactly
-reproduce the figure) 
+reproduce the figure). Detailed rubric:
+
+- 10 points for quality of documentation in github repo. 2 points for
+  each of the following:
+  - Does the README clearly explain the purpose of the repository /
+    coding project?
+  - Does the README have a link to the PDF project proposal?
+  - Does the README have a copy of the figure, and a citation to where
+    the figure came from?
+  - Does the README explain what software must be installed in order
+    to create the figure?
+  - Does the Makefile clearly document the dependencies and commands
+    to run to create the figure?
+- 10 points for quality of code in github repo. 2 points for each of
+  the following:
+  - Is it easy to find the line of code which creates the output
+    figure? (Makefile should indicate what code file to search)
+  - Does the code contain any comments that explain what the code is
+    doing?
+  - Does the code contain any repetition that could be avoided by
+    writing functions/loops/vectorization? (minus points if it is
+    obvious that you have copy/pasted blocks of code)
+  - Does the code use variable/function/class names which are
+    interpretable / easy to understand? (e.g. fitKmeans is
+    interpretable as a function for fitting K-means clustering,
+    doSomething is not interpretable)
+  - Is the machine learning algorithm implemented correctly? (minus
+    points if something is clearly incorrect)
+- 10 points for quality of figure and report. 2 points for each of the
+  following:
+  - Does the report have a copy of the original figure, and a citation
+    to where the figure came from?
+  - Does the report have the figure you created?
+  - Do all/most of the details of the two figures match?
+  - paragraph explaining what software/libraries you used, and what
+    you implemented from scratch.
+  - paragraph explaining any issues you had reproducing the
+    figure. (full credit if figure reproduced completely, or
+    incompletely with a valid explanation)
 
 ** Week 6, 20 points
 
