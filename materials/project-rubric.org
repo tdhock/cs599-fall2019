@@ -58,7 +58,7 @@ partner. There should be two paragraphs
 - the first paragraph should describe the documentation that your partner has provided about how to re-do the analysis (README and Makefile). 5 points (1 point for each of the following)
   - Does the README clearly explain the purpose of the repository / coding project?
   - Does the README have a link to the PDF project proposal?
-  - Does the README have a copy of the figure?
+  - Does the README show copies of the original figure and the figure created by your partner?
   - Does the README have a citation to where the figure came from?
   - Does the Makefile clearly document the commands that can be run to reproduce the analysis?
 - the second paragraph should describe the code that your partner has written so far. 5 points (1 point for each of the following).  If the answer is NO to any of the following, please provide suggestions about how to improve.
