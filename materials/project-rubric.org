@@ -115,6 +115,13 @@ reproduce the figure). Detailed rubric:
 ** Week 6, 20 points
 
 run your partner’s code and write a report explaining whether or not
-you could reproduce your partner’s results. 10 points for your report
-about your partner, 10 points if your code was reproducible by your
-partner.
+you could reproduce your partner’s results. 
+- 10 points for your report about your partner, 2 points for each of the following.
+  - Did your partner include installation/running instructions in the README? 
+  - Were the installation instructions sufficient/complete? Or did you have to install additional software that your partner did not mention?
+  - Were the running instructions sufficient/complete to reproduce your partner's figure without errors? Or did you have to modify some of the commands/code to reproduce the analysis?
+  - Is the figure that you created identical to the figure your partner created? Did your partner accurately reproduce the original figure from the book/paper?
+  - In an appendix, please include the commands you ran and the terminal output from your computer, so I can see that you actually ran your partner's code.
+- 10 points if your code was reproducible by your partner.
+  - 6-10 points if your partner was able to reproduce your figure.
+  - 1-5 points if your partner was not able to reproduce your figure.
